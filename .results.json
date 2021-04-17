@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 1,
+    "passes": 1,
+    "pending": 0,
+    "failures": 0,
+    "start": "2021-04-17T16:26:33.692Z",
+    "end": "2021-04-17T16:26:33.719Z",
+    "duration": 27
+  },
+  "tests": [
+    {
+      "title": "Matches your face",
+      "fullTitle": "YourButt Matches your face",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "Matches your face",
+      "fullTitle": "YourButt Matches your face",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
